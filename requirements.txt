@@ -1,0 +1,9 @@
+PyPDF2
+azure-ai-documentintelligence
+azure-core
+openai
+pandas
+pdfplumber
+python-dotenv
+streamlit>=1.29
+unidecode
